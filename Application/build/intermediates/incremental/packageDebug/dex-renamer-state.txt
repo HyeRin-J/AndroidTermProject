@@ -1,0 +1,7 @@
+#Thu Dec 15 17:14:35 KST 2016
+base.0=C\:\\Users\\dke\\Documents\\AndroidTermProject\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_1422f0347dce60c197aad187fab29b1c353ed4c9
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\dke\\Documents\\AndroidTermProject\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_c4b1bb74fcbd59ddf661960e16080155c9e45652\\classes.dex
+base.1=C\:\\Users\\dke\\Documents\\AndroidTermProject\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_c4b1bb74fcbd59ddf661960e16080155c9e45652
+file.0=C\:\\Users\\dke\\Documents\\AndroidTermProject\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_1422f0347dce60c197aad187fab29b1c353ed4c9\\classes.dex
