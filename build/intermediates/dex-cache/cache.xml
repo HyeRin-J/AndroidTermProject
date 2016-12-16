@@ -3,174 +3,156 @@
 
     <item
         is-multidex="true"
-        jar="C:\Users\dke\Documents\AndroidTermProject\Application\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
-        <dex dex="C:\Users\dke\Documents\AndroidTermProject\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.1_8321984602231e29b4cdd211f25f343d142c8c01\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\dke\Documents\AndroidTermProject\Application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="7cda10e644eaecf41a94ca6627ab542967a7cae7">
-        <dex dex="C:\Users\dke\Documents\AndroidTermProject\Application\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_1422f0347dce60c197aad187fab29b1c353ed4c9\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\dke\Documents\AndroidTermProject\Application\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
-        <dex dex="C:\Users\dke\Documents\AndroidTermProject\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_cac79e2698e4ab5d482975633e47ec1eef93ee90\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\dke\Documents\AndroidTermProject\Application\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
-        <dex dex="C:\Users\dke\Documents\AndroidTermProject\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.1_18dfa8e9ae5e110f5d8db2a8e4f4e0a8420a7576\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\dke\Documents\AndroidTermProject\Application\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
-        <dex dex="C:\Users\dke\Documents\AndroidTermProject\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.1_535ed4cdc518adb4942d92fde222fab4ab4dc15d\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\dke\Documents\AndroidTermProject\Application\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
-        <dex dex="C:\Users\dke\Documents\AndroidTermProject\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_02b1146b5f865721eda95dfc5ef670a84e403620\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\dke\Documents\AndroidTermProject\Application\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
-        <dex dex="C:\Users\dke\Documents\AndroidTermProject\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_cbe1255130bbc377ea1d446f8ab457834d5032e8\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\dke\Documents\AndroidTermProject\Application\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="C:\Users\dke\Documents\AndroidTermProject\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.1_8b0a19a5e61498c645d2d939d8e9bf47c160fc6e\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\dke\Documents\AndroidTermProject\Application\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="f83b00041ecfba705603fec40363416c7de69719">
-        <dex dex="C:\Users\dke\Documents\AndroidTermProject\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_f96db4958ec778edc760ae121b0ca76f85b9f4ef\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\dke\Documents\AndroidTermProject\Application\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
-        <dex dex="C:\Users\dke\Documents\AndroidTermProject\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.1_c3bd412aa43a41ee6ae2e63f5878a111f9142d9e\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\dke\Documents\AndroidTermProject\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.0.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
-        <dex dex="C:\Users\dke\Documents\AndroidTermProject\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-25.0.1_155689decd8229b57a0dabbc196c617b5efea5cd\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\dke\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
-        <dex dex="C:\Users\dke\Documents\AndroidTermProject\Application\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.1_5efd56cd6b7d85f069827b2e422ec614cc225a6b\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\dke\Documents\AndroidTermProject\Application\build\intermediates\exploded-aar\com.android.support\gridlayout-v7\25.0.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="4700f436ede140fb804204f806c9cc3f08e386f4">
-        <dex dex="C:\Users\dke\Documents\AndroidTermProject\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-gridlayout-v7-25.0.1_a97ed0d93fa8caff8ec06684d313a755f8b5b81d\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\dke\Documents\AndroidTermProject\Application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="eda74fa30286c40a20146caaf03e1bf975821438">
-        <dex dex="C:\Users\dke\Documents\AndroidTermProject\Application\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_c4b1bb74fcbd59ddf661960e16080155c9e45652\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\dke\Documents\AndroidTermProject\Application\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jar="F:\2016-2\Android\Chess\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
-        <dex dex="C:\Users\dke\Documents\AndroidTermProject\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_2c08b45c09d47e1c1173a87baa4922e4d0f2e3d6\classes.dex" />
+        <dex dex="F:\2016-2\Android\Chess\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_c75c032a96ea06b14d26449362de8afc02ab6d47\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\dke\Documents\AndroidTermProject\Application\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jar="F:\2016-2\Android\Chess\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
-        <dex dex="C:\Users\dke\Documents\AndroidTermProject\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.1_2547fb66521eab46018614a76dbdabefdfd29ade\classes.dex" />
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="F:\2016-2\Android\Chess\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_c42e03397c7fd3107bf627210376103afedee99f\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\dke\Documents\AndroidTermProject\Application\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jar="F:\2016-2\Android\Chess\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
-        <dex dex="C:\Users\dke\Documents\AndroidTermProject\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.1_2b2a8e9ccdf5ec3708acfed490bfa95049772d99\classes.dex" />
+        sha1="2f169823a5382191766d4727b7916bf555511ca9">
+        <dex dex="F:\2016-2\Android\Chess\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_79dc419496726f1ea04eea4196fc6418682f4ba2\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\dke\Documents\AndroidTermProject\Application\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jar="F:\2016-2\Android\Chess\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\2016-2\Android\Chess\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.1_165869835c7cb07f6a154608ee4e03e245ee1f48\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\2016-2\Android\Chess\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="F:\2016-2\Android\Chess\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_203eff19cfa56d6f891b17473cb49ae4450e3f4e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\2016-2\Android\Chess\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4fda3ca43770993e5cef042211c370a1b549e72c">
+        <dex dex="F:\2016-2\Android\Chess\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_e3eb634d5e74a4d7915b38504c18ddbeae08e975\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\2016-2\Android\Chess\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="F:\2016-2\Android\Chess\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_965c4792f27223a822f3f679a37730d2051df053\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\2016-2\Android\Chess\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="F:\2016-2\Android\Chess\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.1_cebc6ccd815836c9e65c4e30cba7d42ac10d75a8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\SDK\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="F:\2016-2\Android\Chess\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.1_45305f900de09ee2681d4aad29acbc4aa3eb3116\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\2016-2\Android\Chess\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="F:\2016-2\Android\Chess\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.1_44b8df38b5f3edb9da59be77e0bd9adfb6cf4ca6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\2016-2\Android\Chess\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="F:\2016-2\Android\Chess\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_13389d97345c395d37c00a32094777096c2f6a11\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\2016-2\Android\Chess\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
-        <dex dex="C:\Users\dke\Documents\AndroidTermProject\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.1_a24d15f1692e2f6991e7031e4b1ac2e6df8f5cdd\classes.dex" />
+        <dex dex="F:\2016-2\Android\Chess\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.1_81c9bf36ccda0745a372190802474eab9d91e0cc\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\dke\Documents\AndroidTermProject\Application\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jar="F:\2016-2\Android\Chess\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="F:\2016-2\Android\Chess\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.1_57b31520c6e4a2c2925a3882ee3977e03b63531c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\2016-2\Android\Chess\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="F:\2016-2\Android\Chess\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.1_17d4f16c818d2a4ab45b9a36dbcccf0033448ac5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\2016-2\Android\Chess\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="F:\2016-2\Android\Chess\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.1_d161fba9fd0d717330909c168041810cdf1517f7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\2016-2\Android\Chess\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="F:\2016-2\Android\Chess\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.1_b875c5f704de72ba3edc817b9cf43ced11bcc112\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\2016-2\Android\Chess\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
-        <dex dex="C:\Users\dke\Documents\AndroidTermProject\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.1_2d1971864e517091173b9212f1512032d685d27a\classes.dex" />
+        <dex dex="F:\2016-2\Android\Chess\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.1_a9c4c2d2d6d7560ec6609183b94359b6d799558a\classes.dex" />
     </item>
 
 </items>
