@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "F:\\2016-2\\Android\\BluetoothChat\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\chessboard.png",
+        "source": "F:\\2016-2\\Android\\BluetoothChat\\Application\\src\\main\\res\\drawable-xhdpi\\chessboard.png"
+    },
+    {
+        "merged": "F:\\2016-2\\Android\\BluetoothChat\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\knight_black.png",
+        "source": "F:\\2016-2\\Android\\BluetoothChat\\Application\\src\\main\\res\\drawable-xhdpi\\knight_black.png"
+    },
+    {
+        "merged": "F:\\2016-2\\Android\\BluetoothChat\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bishop_black.png",
+        "source": "F:\\2016-2\\Android\\BluetoothChat\\Application\\src\\main\\res\\drawable-xhdpi\\bishop_black.png"
+    },
+    {
+        "merged": "F:\\2016-2\\Android\\BluetoothChat\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\king_white.png",
+        "source": "F:\\2016-2\\Android\\BluetoothChat\\Application\\src\\main\\res\\drawable-xhdpi\\king_white.png"
+    },
+    {
+        "merged": "F:\\2016-2\\Android\\BluetoothChat\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\rook_white.png",
+        "source": "F:\\2016-2\\Android\\BluetoothChat\\Application\\src\\main\\res\\drawable-xhdpi\\rook_white.png"
+    },
+    {
+        "merged": "F:\\2016-2\\Android\\BluetoothChat\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\pawn_white.png",
+        "source": "F:\\2016-2\\Android\\BluetoothChat\\Application\\src\\main\\res\\drawable-xhdpi\\pawn_white.png"
+    },
+    {
+        "merged": "F:\\2016-2\\Android\\BluetoothChat\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bishop_white.png",
+        "source": "F:\\2016-2\\Android\\BluetoothChat\\Application\\src\\main\\res\\drawable-xhdpi\\bishop_white.png"
+    },
+    {
+        "merged": "F:\\2016-2\\Android\\BluetoothChat\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\queen_black.png",
+        "source": "F:\\2016-2\\Android\\BluetoothChat\\Application\\src\\main\\res\\drawable-xhdpi\\queen_black.png"
+    },
+    {
+        "merged": "F:\\2016-2\\Android\\BluetoothChat\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_action_device_access_bluetooth_searching.png",
+        "source": "F:\\2016-2\\Android\\BluetoothChat\\Application\\src\\main\\res\\drawable-xhdpi\\ic_action_device_access_bluetooth_searching.png"
+    },
+    {
+        "merged": "F:\\2016-2\\Android\\BluetoothChat\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\knight_white.png",
+        "source": "F:\\2016-2\\Android\\BluetoothChat\\Application\\src\\main\\res\\drawable-xhdpi\\knight_white.png"
+    },
+    {
+        "merged": "F:\\2016-2\\Android\\BluetoothChat\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "F:\\2016-2\\Android\\BluetoothChat\\Application\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\2016-2\\Android\\BluetoothChat\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\queen_white.png",
+        "source": "F:\\2016-2\\Android\\BluetoothChat\\Application\\src\\main\\res\\drawable-xhdpi\\queen_white.png"
+    },
+    {
+        "merged": "F:\\2016-2\\Android\\BluetoothChat\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\impossible.png",
+        "source": "F:\\2016-2\\Android\\BluetoothChat\\Application\\src\\main\\res\\drawable-xhdpi\\impossible.png"
+    },
+    {
+        "merged": "F:\\2016-2\\Android\\BluetoothChat\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\rook_black.png",
+        "source": "F:\\2016-2\\Android\\BluetoothChat\\Application\\src\\main\\res\\drawable-xhdpi\\rook_black.png"
+    },
+    {
+        "merged": "F:\\2016-2\\Android\\BluetoothChat\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\possible.png",
+        "source": "F:\\2016-2\\Android\\BluetoothChat\\Application\\src\\main\\res\\drawable-xhdpi\\possible.png"
+    },
+    {
+        "merged": "F:\\2016-2\\Android\\BluetoothChat\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\pawn_black.png",
+        "source": "F:\\2016-2\\Android\\BluetoothChat\\Application\\src\\main\\res\\drawable-xhdpi\\pawn_black.png"
+    },
+    {
+        "merged": "F:\\2016-2\\Android\\BluetoothChat\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\king_black.png",
+        "source": "F:\\2016-2\\Android\\BluetoothChat\\Application\\src\\main\\res\\drawable-xhdpi\\king_black.png"
+    },
+    {
+        "merged": "F:\\2016-2\\Android\\BluetoothChat\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\main2.png",
+        "source": "F:\\2016-2\\Android\\BluetoothChat\\Application\\src\\main\\res\\drawable-xhdpi\\main2.png"
+    }
+]
