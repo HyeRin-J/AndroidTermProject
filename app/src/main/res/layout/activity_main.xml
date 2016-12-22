@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:background="@drawable/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:orientation="vertical"
+    tools:context="hyerin.chess.MainActivity">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="200dp">
+
+        <TextView
+            android:textAlignment="center"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Chess Game"
+            android:textSize="30dp"
+            />
+        <TextView
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp"
+            android:textSize="20dp"
+            android:text="2013136127 주혜린"
+            android:textAlignment="3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:textSize="20dp"
+            android:text="2013136122 조영현"
+            android:textAlignment="3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+    <Button
+        android:onClick="Onclick"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/button"
+        android:id="@+id/Bluetooth"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:text="Bluetooth"/>
+    <Button
+        android:onClick="Onclick"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/button"
+        android:id="@+id/Chess_Activity"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:text="Chess Activity" />
+</LinearLayout>
